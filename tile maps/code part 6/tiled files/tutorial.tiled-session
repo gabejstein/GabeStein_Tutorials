@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilesheet01.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map_01.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1278,
+                "y": 402.3333333333333
+            }
+        },
+        "tilesheet01.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Geibu/Documents/Blender Animal Tuts/Love2D/tile maps/code part 5/maps",
+    "last.imagePath": "C:/Users/Geibu/Documents/Blender Animal Tuts/Love2D/tile maps/code part 3/textures",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "map_01.tmx",
+        "tilesheet01.tsx"
+    ],
+    "project": "tutorial.tiled-project",
+    "recentFiles": [
+        "map_01.tmx",
+        "tilesheet01.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
